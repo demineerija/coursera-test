@@ -5,7 +5,13 @@
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 <br>ruskam
-<p>I will display A B C</p>
-<p>I will display &#65; &#66; &#67;</p>
+<h1>My First Emoji</h1>
+
+<p>&#128512;</p>
+<h1>Sized Emojis</h1>
+
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
 </body>
 </html>
