@@ -18,10 +18,9 @@
   <tr>
     <td>super jon</td>
     <td>emu 6 let</td>
-   
   </tr>
   <tr>
-    <td>alisa<td/>
+    <td>alisa</td>
     <td>julia</td>
   </tr>
 </table>
