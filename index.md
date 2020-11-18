@@ -14,6 +14,17 @@
   <li>mjaso</li>
   <li>pivo</li>
 </ol>
+<table>
+  <tr>
+    <td>super jon</td>
+    <td>emu 6 let</td>
+   
+  </tr>
+  <tr>
+    <td>alisa<td/>
+    <td>julia</td>
+  </tr>
+</table>
 
 <p>&#128512;</p>
 <h1>Sized Emojis</h1>
