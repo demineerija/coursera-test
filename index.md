@@ -7,6 +7,14 @@
 <br>ruskam
 <h1>My First Emoji</h1>
 
+<hi>Spisok pokupok</h1>
+<ol type = "I">
+  <li>Moloko</li>
+  <li>smetana</li>
+  <li>mjaso</li>
+  <li>pivo</li>
+</ol>
+
 <p>&#128512;</p>
 <h1>Sized Emojis</h1>
 
