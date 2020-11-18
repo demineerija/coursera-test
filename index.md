@@ -8,7 +8,7 @@
 <h1>My First Emoji</h1>
 
 <hi>Spisok pokupok</h1>
-<ol reversed; type = "I">
+<ol reversed>
   
   <li>Moloko</li>
   <li>smetana</li>
