@@ -9,7 +9,6 @@
 
 <hi>Spisok pokupok</h1>
 <ol reversed>
-  
   <li>Moloko</li>
   <li>smetana</li>
   <li>mjaso</li>
